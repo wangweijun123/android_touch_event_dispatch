@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.wangweijun.toucheventdispatch.MyLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff0000"
+    android:gravity="center">
+
+    <com.example.wangweijun.toucheventdispatch.MyView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#00ff00"/>
+
+</com.example.wangweijun.toucheventdispatch.MyLinearLayout>
